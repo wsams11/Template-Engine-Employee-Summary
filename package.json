@@ -21,5 +21,9 @@
     "fs": "0.0.1-security",
     "inquirer": "^7.0.0",
     "path": "^0.12.7"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
 }
