@@ -26,11 +26,11 @@ so that I have quick access to emails and GitHub profiles
 
 ## Usage
 
-- [screenshot of terminal](images/1)
-- [screenshot of index.html](images/2)
-- [gif1](images/gif1)
-- [gif2](images/gif2)
-- [gif3](images/gif3)
+- [screenshot of terminal](images/1.png)
+- [screenshot of index.html](images/2.png)
+- [gif1](images/gif1.gif)
+- [gif2](images/gif2.gif)
+- [gif3](images/gif3.gif)
 
 You can visit my github repo here!
 https://github.com/wsams11/Template-Engine-Employee-Summary
